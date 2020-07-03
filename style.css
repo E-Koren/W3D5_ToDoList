@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(220, 216, 240);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  list-style: none;
+  width: 50%;
+  padding: 5px;
+  border: solid 1px grey;
+  margin: 2px;
+  text-align: center;
+  border-radius: 3px;
+  background-color: rgb(209, 203, 240);
+}
+
+img {
+  float: right;
+}
+input {
+  float: left;
+}
+.done {
+  text-decoration: line-through;
+  color: rgb(112, 112, 112);
+}
